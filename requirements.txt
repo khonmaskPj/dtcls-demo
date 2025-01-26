@@ -1,4 +1,3 @@
-
 blinker==1.9.0
 certifi==2024.12.14
 charset-normalizer==3.4.1
@@ -36,8 +35,8 @@ scipy==1.15.1
 seaborn==0.13.2
 six==1.17.0
 sympy==1.13.1
-torch==2.5.1+cpu
-torchvision==0.20.1+cpu
+torch==2.5.1
+torchvision==0.20.1
 tqdm==4.67.1
 typing_extensions==4.12.2
 tzdata==2025.1
