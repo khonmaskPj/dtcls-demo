@@ -1,4 +1,4 @@
-pip3 install torch torchvision torchaudio
+https://github.com/pytorch/pytorch#from-source
 blinker==1.9.0
 certifi==2024.12.14
 charset-normalizer==3.4.1
